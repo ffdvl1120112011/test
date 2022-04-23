@@ -1,0 +1,2 @@
+import lrt
+lrt.main()
