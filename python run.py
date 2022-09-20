@@ -1,0 +1,2 @@
+import Qaiser
+Qaiser.qsbuy()
